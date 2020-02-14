@@ -1,1 +1,1 @@
-print('new wuhao')
+print('new wuhao','ssh_test')
